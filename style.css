@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background: #0ea34f;
+    color: #fff;
+    padding: 25px;
+}
+form{
+    padding:10px 25px;
+    width: max-content;
+}
+label{
+    display: block;
+    margin: 10px auto;
+    font-weight: bold;
+}
+span{
+    color: red;
+}
+input{
+    margin-bottom: 20px;
+}
+button{
+    border: 0;
+    display: block;
+    color: #fff;
+    background: #0ea34f;
+    padding:10px 20px;
+    margin: 10px auto;
+    cursor: pointer;
+}
